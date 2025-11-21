@@ -1,0 +1,2 @@
+# No external dependencies are required.
+# This project runs on the standard Python 3 library (tkinter, itertools, uuid, unittest).
